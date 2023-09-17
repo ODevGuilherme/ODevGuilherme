@@ -1,7 +1,7 @@
 ## Olá! Me chamo Guilherme 💫
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-baierle-de-ferreira-841866223/)
-[![Power BI]([https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black](https://sites.google.com/view/guilherme-baierle/página-inicial))](https://sites.google.com/view/guilherme-baierle/página-inicial)
+[![Power BI]([https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black](https://sites.google.com/view/guilherme-baierle/página-inicial)
 
 ![ODevGuilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=ODevGuilherme&show_icons=true&theme=gruvbox)
 
