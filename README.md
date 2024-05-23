@@ -18,7 +18,7 @@
 <div><br/>
 
 # Experiência Profissional 👨‍💻
-## Database Assintant
+## Database Assistant
 - Coleta e compilação de dados SQL. 
 - Organizo e categorizo os dados no sistema.
 - Realizo análises dos dados para identificar tendências ou padrões.
